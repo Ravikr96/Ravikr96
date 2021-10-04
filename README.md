@@ -2,6 +2,7 @@
 <h1 align="center">I'm Ravi</h1>
 
 ### I have technical experience and interest in -
+* Data Engineering
 * Conversational AI 
 * Natural Language Processing 
 * Machine Learning
