@@ -2,9 +2,16 @@
 <h1 align="center">I'm Ravi</h1>
 
 ### I have technical experience and interest in -
-* Data Engineering
-* Conversational AI 
-* Natural Language Processing 
+#### Data Engineering
+* Python
+* SQL
+* PySpark
+* AWS (S3, Kinesis, Glue, EMR, Lambda, Redshift, Athena, Sagemaker)
+* Big-Data(Hadoop, Sqoop, Hive, Hbase)
+* Kafka
+* Orchestration tool (Airflow)
+* Databricks
+#### Data Science 
 * Machine Learning
 * Deep Learning
-* Computer Vision
+* Natural Language Processing
